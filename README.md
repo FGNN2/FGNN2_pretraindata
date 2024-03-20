@@ -3,7 +3,7 @@ This repo contains circuit functionality learning dataset download instructions 
 
 This dataset is made from open-source logic synthesis tool [ABC](https://github.com/berkeley-abc/abc) and [Yosys](https://github.com/YosysHQ/yosys).
 
-| Input Width | Replacement Ratio        |
+| Input Width | Replacement Ratio |        |        |        |         |
 |-------------|-------------------|--------|--------|--------|---------|
 |             | 10%               | 20%    | 30%    | 50%    | total   |
 | 4           | 5666              | 5548   | 4302   | 3924   | 19440   |
