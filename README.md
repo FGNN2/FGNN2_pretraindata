@@ -8,7 +8,7 @@ Following is a table that illustrates the number of samples contained in the dat
 <table>
     <tr>
         <td rowspan="2">Input Width</td>
-        <td colspan = "5",style=”text-align: center;”>Replacement Ratio</td>
+        <td colspan="5",style=”text-align: center;”>Replacement Ratio</td>
     </tr>
     <tr>
         <td>10%</td>
@@ -61,12 +61,23 @@ Following is a table that illustrates the number of samples contained in the dat
 
 ## Raw AIG Download
 
-You can now download our raw AIG data from the following link: (7-zipped ~500MB)
+You can now download our raw AIG data from the following link: (7-zipped ~MB)
+
 
 
 The archive contains:
 
-* The netlists of a large amount of syntheic truthtables with the input width ranges from 4 to 7.
+* The netlists of a large number of synthetic truth table circuits in the AIG format (.bench) with the input width ranges from 4 to 7.
+* The augmented positive pairs of each truth table netlist using replacement ratios 10%, 20%, 40%, and 50%. Note that the augmentation changes the topology while maintaining the Boolean functionality.
+
+
+## Graph Data Download for GNN Training & Inference
+Please use the link below. The 7-zipped file is about  MB in size.
+
+
+
+## Documentation
+You can also refer to our [code](https://github.com/ZeayW/FGNN2) for usage.
 
 
 
