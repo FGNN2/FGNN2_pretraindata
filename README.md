@@ -6,7 +6,7 @@ This dataset is made from open-source logic synthesis tool [ABC](https://github.
 <table>
     <tr>
         <td>Input Width</td>
-        <td>Replacement Ratio</td>
+        <td rowspan="4">Replacement Ratio<br>(CFR1)<br>(0X00)</td>
         <td></td>
         <td></td>
         <td></td>
