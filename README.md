@@ -3,10 +3,10 @@ This repo contains circuit functionality learning dataset download instructions 
 
 This dataset is made from open-source logic synthesis tool [ABC](https://github.com/berkeley-abc/abc) and [Yosys](https://github.com/YosysHQ/yosys), together with our customized rewriting algorithm.
 
-<table style=”margin: auto”>
+<table>
     <tr>
         <td rowspan="2">Input Width</td>
-        <td colspan = "5">Replacement Ratio</td>
+        <td colspan = "5",style=”text-align: center;”>Replacement Ratio</td>
     </tr>
     <tr>
         <td>10%</td>
