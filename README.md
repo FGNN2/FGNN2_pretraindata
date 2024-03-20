@@ -7,13 +7,8 @@ This dataset is made from open-source logic synthesis tool [ABC](https://github.
     <tr>
         <td rowspan="2">Input Width</td>
         <td colspan = "5">Replacement Ratio</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
-        <td></td>
         <td>10%</td>
         <td>20%</td>
         <td>30%</td>
