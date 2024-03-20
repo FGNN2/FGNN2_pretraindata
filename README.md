@@ -3,6 +3,8 @@ This repo contains circuit functionality learning dataset download instructions 
 
 This dataset is made from open-source logic synthesis tool [ABC](https://github.com/berkeley-abc/abc) and [Yosys](https://github.com/YosysHQ/yosys), together with our customized rewriting algorithm.
 
+Following is a table that illustrates the number of samples contained in the dataset:
+
 <table>
     <tr>
         <td rowspan="2">Input Width</td>
