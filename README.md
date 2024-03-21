@@ -61,9 +61,9 @@ Following is a table that illustrates the number of samples contained in the dat
 
 ## Raw AIG Download
 
-You can now download our raw AIG data from the following link: (7-zipped ~MB)
+You can now download our raw AIG data from the following link: (7-zipped ~3GB)
 
-
+https://drive.google.com/file/d/1thF6OO6mk4q7v5iGvUx2ISuGQsaMNTnq/view?usp=share_link
 
 The archive contains:
 
@@ -72,9 +72,9 @@ The archive contains:
 
 
 ## Graph Data Download for GNN Training & Inference
-Please use the link below. The 7-zipped file is about  MB in size.
+Please use the link below. The 7-zipped file is about  2.5GB in size.
 
-
+https://drive.google.com/file/d/1Ta8uUgVYzAW5fvQExN3RXRmYlX703rXC/view?usp=share_link
 
 ## Documentation
 You can also refer to our [code](https://github.com/ZeayW/FGNN2) for usage.
